@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+body{
+	width:100%;
+}
+.form-control{
+	width:30%;
+	
+}
+form{
+	padding :2%;
+	
+}
+
+section{
+	margin-top:3%;
+}
+.prohead{
+	display:inline-block;
+	margin-left:14%;
+	padding:0;
+}
